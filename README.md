@@ -7,3 +7,4 @@
 
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
+| Intro to Git     | no code             | [video](https://youtu.be/-VmigyKsoF8) |
