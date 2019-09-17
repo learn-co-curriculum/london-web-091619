@@ -8,3 +8,4 @@
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | Intro to Git     | no code             | [video](https://youtu.be/-VmigyKsoF8) |
+| Hashes and the Internet     | [code](https://github.com/learn-co-students/london-web-091619/tree/master/1-hashes-and-the-internet)             | [video](https://youtu.be/_NTIMAXRMT0) |
