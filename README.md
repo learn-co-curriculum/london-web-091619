@@ -15,6 +15,6 @@
 | One to Many   | [code](https://github.com/learn-co-students/london-web-091619/tree/master/3-one-to-many)             | [video](https://youtu.be/ZvUdiqvzk9I) |
 | Many to Many   | [code](https://github.com/learn-co-students/london-web-091619/tree/master/4-many-to-many)             | [video](https://youtu.be/cD67QgRrEN0) |
 | BloodOath Review   | [code](https://github.com/learn-co-students/london-web-091619/tree/master/5-blood-oath-relations)             | [video](https://youtu.be/cCZdfJhq-uU) |
-| Intro to SQL | [no code]
+| Intro to SQL | [no code] |
       | [video](https://youtu.be/rtbgotd_thQ) |
 
