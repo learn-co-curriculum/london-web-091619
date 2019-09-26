@@ -16,4 +16,4 @@
 | Many to Many   | [code](https://github.com/learn-co-students/london-web-091619/tree/master/4-many-to-many)             | [video](https://youtu.be/cD67QgRrEN0) |
 | BloodOath Review   | [code](https://github.com/learn-co-students/london-web-091619/tree/master/5-blood-oath-relations)             | [video](https://youtu.be/cCZdfJhq-uU) |
 | Intro to SQL | no code                | [video](https://youtu.be/rtbgotd_thQ) |
-
+| Intro to ORMs| [code](https://github.com/learn-co-students/london-web-091619/tree/master/6-intro-to-orms)             | [video](https://www.youtube.com/watch?v=I7XWxj2dM7c) |
