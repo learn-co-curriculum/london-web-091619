@@ -18,3 +18,4 @@
 | Intro to SQL | no code                | [video](https://youtu.be/rtbgotd_thQ) |
 | Intro to ORMs| [code](https://github.com/learn-co-students/london-web-091619/tree/master/6-intro-to-orms)             | [video](https://www.youtube.com/watch?v=I7XWxj2dM7c) |
 | Intro to Active Record | [code](https://github.com/learn-co-students/london-web-091619/tree/master/7-active-record-intro)             | [video](https://youtu.be/bjXjCXatRc8) |
+| Project Setup | [code](https://github.com/learn-co-students/london-web-091619/tree/master/8-project-setup)             | [video](https://youtu.be/JSWS3DQb6RY) |
