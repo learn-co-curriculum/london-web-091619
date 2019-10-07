@@ -21,3 +21,10 @@
 | Project Setup | [code](https://github.com/learn-co-students/london-web-091619/tree/master/8-project-setup)             | [video](https://youtu.be/JSWS3DQb6RY) |
 | Intro to the Internet | no code   | [video](https://youtu.be/1D8sZumkHOo) |
 
+
+## Module 2
+
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| Intro to Sinatra and MVC | [code](https://github.com/learn-co-students/london-web-091619/tree/master/9-sinatra-mvc-intro)             | [video](https://youtu.be/8jat4ZTLMBc) |
+
