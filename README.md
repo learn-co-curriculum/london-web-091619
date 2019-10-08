@@ -27,4 +27,5 @@
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | Intro to Sinatra and MVC | [code](https://github.com/learn-co-students/london-web-091619/tree/master/9-sinatra-mvc-intro)             | [video](https://youtu.be/8jat4ZTLMBc) |
+| Sinatra Forms and REST | [code](https://github.com/learn-co-students/london-web-091619/tree/master/10-sinatra-forms-and-rest)             | [video](https://youtu.be/S_TPw5cNIUQ) |
 
