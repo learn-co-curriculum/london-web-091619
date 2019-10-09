@@ -28,4 +28,6 @@
 | -----            | ----                | -----                |
 | Intro to Sinatra and MVC | [code](https://github.com/learn-co-students/london-web-091619/tree/master/9-sinatra-mvc-intro)             | [video](https://youtu.be/8jat4ZTLMBc) |
 | Sinatra Forms and REST | [code](https://github.com/learn-co-students/london-web-091619/tree/master/10-sinatra-forms-rest)             | [video](https://youtu.be/S_TPw5cNIUQ) |
+| Sinatra Forms and Associated Objects | [code](https://github.com/learn-co-students/london-web-091619/tree/master/11-sinatra-forms-associated-objects)             | [video](https://youtu.be/DJQnEyagYwA) |
+
 
