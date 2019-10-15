@@ -32,6 +32,7 @@
 | Intro to Rails | [code](https://github.com/learn-co-students/london-web-091619/tree/master/12-intro-to-rails)             | [video](https://youtu.be/dWwlsecDWoQ) |
 | Rails Forms and REST | [code](https://github.com/learn-co-students/london-web-091619/tree/master/13-rails-forms-rest)             | [video](https://youtu.be/zeZKvdk7K7A) |
 | Rails Forms and Associations| [code](https://github.com/learn-co-students/london-web-091619/tree/master/14-rails-forms-associations)             | [video](https://youtu.be/yHF_NIAWe1g) |
+| Rails Forms and Validations| [code](https://github.com/learn-co-students/london-web-091619/tree/master/15-rails-forms-validations)             | [video](https://youtu.be/_e4tiuyIXdk) |
 
 
 
