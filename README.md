@@ -34,6 +34,7 @@
 | Rails Forms and Associations| [code](https://github.com/learn-co-students/london-web-091619/tree/master/14-rails-forms-associations)             | [video](https://youtu.be/yHF_NIAWe1g) |
 | Rails Forms and Validations| [code](https://github.com/learn-co-students/london-web-091619/tree/master/15-rails-forms-validations)             | [video](https://youtu.be/_e4tiuyIXdk) |
 | Travelatr Review | [code](https://github.com/learn-co-students/london-web-091619/tree/master/16-travelatr-review) | videos [pt1](https://youtu.be/031aIpji5Zk) & [pt2](https://youtu.be/UPWxVmz6wSU) |
+| Sessions and Cookies | [code](https://github.com/learn-co-students/london-web-091619/tree/master/17-sessions-and-cookies) | [video](https://youtu.be/9mT3EvNBayc) |
 
 
 
