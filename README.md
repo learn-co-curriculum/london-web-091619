@@ -37,7 +37,11 @@
 | Sessions and Cookies | [code](https://github.com/learn-co-students/london-web-091619/tree/master/17-sessions-and-cookies) | [video](https://youtu.be/9mT3EvNBayc) |
 | Authentication and Authorization | [code](https://github.com/learn-co-students/london-web-091619/tree/master/18-authentication-and-authorization) | [video](https://youtu.be/D0tNYzCdZNg) |
 
+## Module 3
 
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| JS Intro| [code](https://github.com/learn-co-students/london-web-091619/tree/master/19-js-intro)             | [video](https://youtu.be/2xsX3uiR8us) |
 
 
 
