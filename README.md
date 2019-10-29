@@ -41,7 +41,9 @@
 
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| JS Intro| [code](https://github.com/learn-co-students/london-web-091619/tree/master/19-js-intro)             | [video](https://youtu.be/2xsX3uiR8us) |
+| JS Intro| [code](https://github.com/learn-co-students/london-web-091619/tree/master/19-js-intro)             | [video](https://youtu.be/9BaeTWPSKlQ) |
+
+
 
 
 
