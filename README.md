@@ -43,6 +43,7 @@
 | -----            | ----                | -----                |
 | JS Intro | [code](https://github.com/learn-co-students/london-web-091619/tree/master/19-js-intro)             | [video](https://youtu.be/9BaeTWPSKlQ) |
 | JS Events | [code](https://github.com/learn-co-students/london-web-091619/tree/master/20-js-events)             | [video](https://youtu.be/eIb-HoyXNTw) |
+| Communicating with the Server | [code](https://github.com/learn-co-students/london-web-091619/tree/master/21-communicating-with-the-server)             | [video](https://youtu.be/bQ3aoCvtSwc) |
 
 
 
