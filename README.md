@@ -47,6 +47,7 @@
 | Communicating with the Server Part 2 | [code](https://github.com/learn-co-students/london-web-091619/tree/master/22-communicating-with-the-server-p2)             | [video](https://youtu.be/Z5-uKS2U2NU) |
 | Rails API | [code](https://github.com/learn-co-students/london-web-091619/tree/master/23-rails-api)             | [video](https://youtu.be/SKt6kZ8Pq8w) |
 | Toy Tale Review | [code](https://github.com/learn-co-students/london-web-091619/tree/master/24-toy-tale-review)             | [video](https://youtu.be/l_y0nYv0da0) |
+| ES6 | [code](https://github.com/learn-co-students/london-web-091619/tree/master/25-es6) | [video](https://youtu.be/y45tAZODl88) |
 
 
 
