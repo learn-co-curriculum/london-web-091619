@@ -56,4 +56,5 @@
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | React Intro | [code](https://github.com/learn-co-students/london-web-091619/tree/master/27-intro-to-react)             | [video](https://youtu.be/mgXKw7sahiY) |
+| React Props | [code](https://github.com/learn-co-students/london-web-091619/tree/master/28-react-props)             | [video](https://youtu.be/JpN0AcN4_Kc) |
 
