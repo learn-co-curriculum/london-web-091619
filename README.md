@@ -61,5 +61,6 @@
 | Thinking in React / Todo review | [code](https://github.com/learn-co-students/london-web-091619/tree/master/30-react-todo-review-thinking-in-react)             | [video](https://youtu.be/qItoXpn9mIU) |
 | Component Lifecycle Methods | [code](https://github.com/learn-co-students/london-web-091619/tree/master/31-react-component-lifecycle-methods)             | [video](https://youtu.be/LP2VyURtKY0) |
 | Hogwarts | [code](https://github.com/learn-co-students/london-web-091619/tree/master/32-hogwarts)             | [video 1](https://youtu.be/ngKTxTyBG2A) : [video 2](https://youtu.be/yZBoFmdNWLg) |
+| Sushi Saga | [code](https://github.com/learn-co-students/london-web-091619/tree/master/33-sushi-review)             | [video](https://youtu.be/bZ26w2gJ8kY) |
 
 
