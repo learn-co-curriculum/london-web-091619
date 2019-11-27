@@ -63,5 +63,6 @@
 | Hogwarts | [code](https://github.com/learn-co-students/london-web-091619/tree/master/32-hogwarts)             | [video 1](https://youtu.be/ngKTxTyBG2A) : [video 2](https://youtu.be/yZBoFmdNWLg) |
 | Sushi Saga | [code](https://github.com/learn-co-students/london-web-091619/tree/master/33-sushi-review)             | [video](https://youtu.be/bZ26w2gJ8kY) |
 | Stocks Review | [code](https://github.com/learn-co-students/london-web-091619/tree/master/34-stocks-review)             | [video](https://youtu.be/Lmu6ldyQWSA) |
+| Hooks | [code](https://github.com/learn-co-students/london-web-091619/tree/master/34-hooks)             | [video](https://youtu.be/7mlWP6PiaVI) |
 
 
