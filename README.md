@@ -65,6 +65,6 @@
 | Stocks Review | [code](https://github.com/learn-co-students/london-web-091619/tree/master/34-stocks-review)             | [video](https://youtu.be/Lmu6ldyQWSA) |
 | Hooks | [code](https://github.com/learn-co-students/london-web-091619/tree/master/34-hooks)             | [video](https://youtu.be/7mlWP6PiaVI) |
 | React Router | [code](https://github.com/learn-co-students/london-web-091619/tree/master/35-react-router)             | [video](https://youtu.be/KW8VmhnE3Wo) |
-| Auth | [code](https://github.com/learn-co-students/london-web-091619/tree/master/36-auth)             | [video 1](https://youtu.be/9R01w-sHbhU) -- [video 2](https://youtu.be/hpbmrIPnAUw) |
+| Auth | [code](https://github.com/learn-co-students/london-web-091619/tree/master/36-auth)             | [video 1](https://youtu.be/9R01w-sHbhU) -- [video 2](https://youtu.be/hpbmrIPnAUw) -- [video 3](https://youtu.be/BqCyt1I1KhE) |
 
 
